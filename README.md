@@ -1,16 +1,16 @@
- <h2> Hi there, I'm Geovanne!👋  </h2>
+ <h2> Hi there, I'm Gabriel!👋  </h2>
 
  <!-- <img align='right' src="jealous.gif" width="180"> -->
 
 <ul>
-  <li>🔭 I’m working with <strong>unsupervised learning</strong></li>
-  <li>📫 How to reach me: <strong><a href="mailto:geovanne_mansano@hotmail.com">geovanne_mansano@hotmail.com</a></strong></li>
+  <li>🔭 I’m working with <strong>Data Science in Itau BBA</strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:gabrielmcorlando@hotmail.com">gabrielmcorlando@hotmail.com</a></strong></li>
 </ul>
 
 <br>
 
 <div>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geomansano&show_icons=true&locale=en&layout=compact" alt="geomansano" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorlando04&show_icons=true&locale=en&layout=compact" alt="gorlando04" /></p>
 
 </div>
 
@@ -19,9 +19,8 @@
 
 ##
 
- [![Linkedin: geomansano](https://img.shields.io/badge/-geomansano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geomansano)](https://www.linkedin.com/in/geomansano)
-[![Kaggle: Geovanne Mansano](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=social)](https://www.kaggle.com/e9r45xryus)
-[![Leetcode: geomansano](	https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/geomansano/)
-[![GitHub geomansano](https://img.shields.io/github/followers/geomansano?label=follow&style=social)](https://github.com/geomansano)
-
+ [![Linkedin: geomansano](https://img.shields.io/badge/-gorlando04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorlando04)](https://www.linkedin.com/in/gorlando04)
+[![GitHub gorlando04](https://img.shields.io/github/followers/gorlando04?label=follow&style=social)](https://github.com/gorlando04)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gmcorlando)
 # README.md
+
